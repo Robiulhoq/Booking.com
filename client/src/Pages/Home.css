@@ -1,0 +1,6 @@
+.home{
+    background: url('../../public/image/bg_top.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+}
